@@ -2,7 +2,7 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.app3"
+  id ="com.phonegap.app5"
   version="1.0.0">
   
   <name>app6 Batalla de puebla</name>
@@ -11,7 +11,7 @@
   Batalla de Puebla
   </description>
   
-  <author href="https://build.phonegap.com" email="cb16.avila.tlacomulco.oscar@gmail.com">
+  <author href="https://build.phonegap.com" email="oscartla18@gmail.com">
 OSCAR AVILA TLACOMULCO
   </author>
   
